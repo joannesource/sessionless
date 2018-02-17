@@ -1,0 +1,9 @@
+{
+  "name": "sessionless",
+  "version": "0.0.1",
+  "description": "javascript browser session using WebCrypto API",
+  "main": "sessionless.js",
+  "repository": "https://github.com/joannesource/sessionless",
+  "author": "Joanne Source",
+  "license": "MIT"
+}
