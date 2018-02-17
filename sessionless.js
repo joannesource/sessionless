@@ -3,7 +3,7 @@
  * https://github.com/joannesource/sessionless
  */
 
-window.Sessionless = {
+var Sessionless = {
     name: 'Sessionless',
     pubkey: null,
     privkey: null,
@@ -253,3 +253,4 @@ window.Sessionless = {
     }
 };
 
+module.exports = Sessionless;
